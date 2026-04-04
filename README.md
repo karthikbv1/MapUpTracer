@@ -174,22 +174,34 @@ Add your screenshots inside a `/screenshots` folder in the repository.
 
 ### Screens to include:
 
-1. Home Screen  
-2. Dark Mode UI  
-3. Session History  
-4. Route Opened in Google Maps  
-5. CSV Export Feature  
-6. AI Route Insight  
+1. Home Screen
 
-### Example screenshot markdown
+. <img width="610" height="1298" alt="image" src="https://github.com/user-attachments/assets/da3ddd14-3c27-42f2-8639-0791dbc233f4" />
 
-```md
-![Home Screen](screenshots/home.png)
-![Dark Mode](screenshots/dark_mode.png)
-![Session History](screenshots/session_history.png)
-```
+2. Dark Mode UI
 
----
+ <img width="774" height="1600" alt="image" src="https://github.com/user-attachments/assets/6744d00c-6c6f-49d1-9fac-0b5b0746769a" />
+
+3. Session History
+
+ <img width="771" height="1600" alt="image" src="https://github.com/user-attachments/assets/32b54c26-9631-4575-84bf-57aab7bc935a" />
+
+4. Route Opened in Google Maps
+
+   <img width="862" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e71829c-b917-481a-8a3f-ce702be4a214" />
+
+5. CSV Export Feature
+
+   <img width="808" height="1600" alt="image" src="https://github.com/user-attachments/assets/080e89c6-debe-44c8-abc8-8c99dff15fbb" />
+
+6. AI Route Insight
+
+   <img width="1166" height="835" alt="image" src="https://github.com/user-attachments/assets/de35ea84-3f46-4044-9dd6-308c0452417a" />
+ 
+
+
+
+
 
 ## 🤖 AI / Smart Feature Added
 
