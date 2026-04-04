@@ -244,14 +244,14 @@ Android/data/com.karthik.mapuptracer/files/Documents/
 ## 🎥 Video Submission
 
 **Demo Video Link:**  
-[PASTE_YOUR_VIDEO_LINK_HERE]
+https://drive.google.com/drive/folders/1Pzy5TJcd9BPfv__Z1h0Xp_d1DyfkocKI?usp=sharing
 
 ---
 
 ## 📥 APK / App Download
 
 **APK Download Link:**  
-[PASTE_YOUR_APK_LINK_HERE]
+https://drive.google.com/file/d/1rRCYJhaLH4qVHXYwgsrcJH-PrKtGxd5o/view?usp=sharing
 
 ---
 
